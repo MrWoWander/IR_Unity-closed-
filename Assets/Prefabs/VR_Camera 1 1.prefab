@@ -190,13 +190,13 @@ GameObject:
   - component: {fileID: 114000012308350222}
   - component: {fileID: 114000011896837764}
   - component: {fileID: 114000010939945524}
-  - component: {fileID: 143000013818668446}
   - component: {fileID: 114000012912088704}
   - component: {fileID: 114000012316996958}
   - component: {fileID: 114000011130732652}
   - component: {fileID: 114000010343218922}
   - component: {fileID: 114000014013857254}
   - component: {fileID: 114000012700951208}
+  - component: {fileID: 143782916533247852}
   m_Layer: 0
   m_Name: VR_Camera 1 1
   m_TagString: Untagged
@@ -417,7 +417,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1000011917918934}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 2.4536905, y: 15.3093605, z: -21.078764}
+  m_LocalPosition: {x: -1.9434563, y: 1.8959777, z: -2.5811687}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4000013715628542}
@@ -1593,7 +1593,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.ScrollRect+ScrollRectEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!143 &143000013818668446
+--- !u!143 &143782916533247852
 CharacterController:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -1603,13 +1603,13 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 2.1
+  m_Height: 2
   m_Radius: 0.5
   m_SlopeLimit: 45
-  m_StepOffset: 0
-  m_SkinWidth: 0.2
-  m_MinMoveDistance: 0
-  m_Center: {x: 0, y: -0.6, z: -0}
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: -0.57, z: 0}
 --- !u!212 &212000010825578774
 SpriteRenderer:
   m_ObjectHideFlags: 1
