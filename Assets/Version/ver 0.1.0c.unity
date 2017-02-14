@@ -194,14 +194,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 311171229}
   WaysFrom:
   - {fileID: 1220082289}
+  Capabylites: []
 --- !u!114 &35349359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -414,14 +411,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 1571490107}
   WaysFrom:
   - {fileID: 1220082289}
+  Capabylites: []
 --- !u!114 &82971342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1328,14 +1322,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 1571490107}
   WaysFrom:
   - {fileID: 541869452}
+  Capabylites: []
 --- !u!114 &230844258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1780,13 +1771,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom: []
+  Capabylites: []
 --- !u!114 &311171230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3170,14 +3158,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom:
   - {fileID: 1264619479}
+  Capabylites: []
 --- !u!114 &541869453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3684,13 +3669,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 1
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom: []
+  Capabylites: []
 --- !u!114 &619451592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5002,6 +4984,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b58c84be337da54fbad771fc31c45b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  numPlayers: 5
 --- !u!114 &863250424
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7185,13 +7168,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom: []
+  Capabylites: []
 --- !u!114 &1220082290
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7472,14 +7452,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 541869452}
   WaysFrom:
   - {fileID: 619451591}
+  Capabylites: []
 --- !u!114 &1264619480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8112,13 +8089,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom: []
+  Capabylites: []
 --- !u!114 &1400837938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9100,13 +9074,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 0}
   WaysFrom: []
+  Capabylites: []
 --- !u!114 &1571490108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10735,7 +10706,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4000013862603112, guid: ceb85dbab2b9f624bb1380c4dd6fbd89, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1000012675209154, guid: ceb85dbab2b9f624bb1380c4dd6fbd89, type: 2}
       propertyPath: m_IsActive
@@ -10898,14 +10869,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 1220082289}
   WaysFrom:
   - {fileID: 619451591}
+  Capabylites: []
 --- !u!114 &1952157832
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11582,14 +11550,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isNow: 0
-  ActiveColor:
-    r: 0
-    g: 0.78431374
-    b: 0
-    a: 1
+  ActiveColor: {r: 0, g: 0.78431374, b: 0, a: 1}
   WayTo: {fileID: 1400837937}
   WaysFrom:
   - {fileID: 541869452}
+  Capabylites: []
 --- !u!114 &2057592680
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11789,7 +11754,7 @@ Transform:
   - {fileID: 910747471}
   - {fileID: 487884496}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 91.70398, y: -25.474976, z: 183.786}
 --- !u!1 &2076002667
 GameObject:
