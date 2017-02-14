@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 54ec23a8624187e4d887feca489c4bce
+timeCreated: 1479327777
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box003
+    100004: Box003 1
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box011
+    100014: Box012
+    100016: Box014
+    100018: Box015
+    100020: Box016
+    100022: Box017
+    100024: Box018
+    100026: Box019
+    100028: Camera001
+    100030: Camera001.Target
+    100032: Camera002
+    100034: Camera002.Target
+    100036: Camera003
+    100038: Camera003.Target
+    100040: clip_table
+    100042: clip_table002
+    100044: clip_table003
+    100046: Cone001
+    100048: Cone003
+    100050: Cone004
+    100052: Cylinder001
+    100054: Cylinder003
+    100056: Cylinder004
+    100058: //RootNode
+    100060: Karta RU
+    100062: Kartina
+    100064: Plane001
+    100066: Rectangle001
+    100068: Rectangle002
+    100070: Room
+    100072: Spot001
+    100074: Spot001.Target
+    100076: Spot002
+    100078: Spot002.Target
+    100080: Spot003
+    100082: Spot003.Target
+    100084: Spot004
+    100086: Spot004.Target
+    100088: Spot005
+    100090: Spot005.Target
+    100092: Table
+    100094: The_Drawel_1
+    100096: The_Drawel_2
+    100098: The_Drawel_3
+    100100: Torus001
+    100102: Torus002
+    100104: Torus005
+    100106: Torus006
+    100108: Torus007
+    100110: Torus008
+    400000: Box001
+    400002: Box003
+    400004: Box003 1
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box011
+    400014: Box012
+    400016: Box014
+    400018: Box015
+    400020: Box016
+    400022: Box017
+    400024: Box018
+    400026: Box019
+    400028: Camera001
+    400030: Camera001.Target
+    400032: Camera002
+    400034: Camera002.Target
+    400036: Camera003
+    400038: Camera003.Target
+    400040: clip_table
+    400042: clip_table002
+    400044: clip_table003
+    400046: Cone001
+    400048: Cone003
+    400050: Cone004
+    400052: Cylinder001
+    400054: Cylinder003
+    400056: Cylinder004
+    400058: //RootNode
+    400060: Karta RU
+    400062: Kartina
+    400064: Plane001
+    400066: Rectangle001
+    400068: Rectangle002
+    400070: Room
+    400072: Spot001
+    400074: Spot001.Target
+    400076: Spot002
+    400078: Spot002.Target
+    400080: Spot003
+    400082: Spot003.Target
+    400084: Spot004
+    400086: Spot004.Target
+    400088: Spot005
+    400090: Spot005.Target
+    400092: Table
+    400094: The_Drawel_1
+    400096: The_Drawel_2
+    400098: The_Drawel_3
+    400100: Torus001
+    400102: Torus002
+    400104: Torus005
+    400106: Torus006
+    400108: Torus007
+    400110: Torus008
+    2300000: Box001
+    2300002: Box003
+    2300004: Box003 1
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box011
+    2300014: Box012
+    2300016: Box014
+    2300018: Box015
+    2300020: Box016
+    2300022: Box017
+    2300024: Box018
+    2300026: Box019
+    2300028: Cone001
+    2300030: Cone003
+    2300032: Cone004
+    2300034: Cylinder001
+    2300036: Cylinder003
+    2300038: Cylinder004
+    2300040: Karta RU
+    2300042: Plane001
+    2300044: Rectangle001
+    2300046: Rectangle002
+    2300048: Room
+    2300050: Torus001
+    2300052: Torus002
+    2300054: Torus005
+    2300056: Torus006
+    2300058: Torus007
+    2300060: Torus008
+    3300000: Box001
+    3300002: Box003
+    3300004: Box003 1
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box011
+    3300014: Box012
+    3300016: Box014
+    3300018: Box015
+    3300020: Box016
+    3300022: Box017
+    3300024: Box018
+    3300026: Box019
+    3300028: Cone001
+    3300030: Cone003
+    3300032: Cone004
+    3300034: Cylinder001
+    3300036: Cylinder003
+    3300038: Cylinder004
+    3300040: Karta RU
+    3300042: Plane001
+    3300044: Rectangle001
+    3300046: Rectangle002
+    3300048: Room
+    3300050: Torus001
+    3300052: Torus002
+    3300054: Torus005
+    3300056: Torus006
+    3300058: Torus007
+    3300060: Torus008
+    4300000: Room
+    4300002: Cone004
+    4300004: Cylinder004
+    4300006: Torus007
+    4300008: Torus008
+    4300010: Box011
+    4300012: Cone003
+    4300014: Cylinder003
+    4300016: Torus005
+    4300018: Torus006
+    4300020: Box016
+    4300022: Box015
+    4300024: Box012
+    4300026: Box014
+    4300028: Cylinder001
+    4300030: Cone001
+    4300032: Torus002
+    4300034: Torus001
+    4300036: Box006
+    4300038: Box005
+    4300040: Box004
+    4300042: Box003
+    4300044: Box001
+    4300046: Plane001
+    4300048: Box017
+    4300050: Karta RU
+    4300052: Box003
+    4300054: Box018
+    4300056: Box019
+    4300058: Rectangle001
+    4300060: Rectangle002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
